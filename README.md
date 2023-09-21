@@ -54,15 +54,17 @@ Open the project folder in your favorite code editor.
 Open index.html in your web browser.
 
 ### Usage
-Open the application in your web browser.
+1.Open the application in your web browser.
 
-Enter the text or URL you want to encode into the QR code in the input field.
 
-Click the "Generate QR Code" button.
+2.Enter the text or URL you want to encode into the QR code in the input field.
 
-The QR code will be generated and displayed on the screen.
 
-Right-click on the QR code image to save it to your device.
+3.Click the "Generate QR Code" button.
+
+4.The QR code will be generated and displayed on the screen.
+
+5.Right-click on the QR code image to save it to your device.
 
 ### Contributing
 Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
