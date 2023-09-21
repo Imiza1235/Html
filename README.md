@@ -68,4 +68,4 @@ Open index.html in your web browser.
 ### Contact
 Name - Md Imtiyaz Alam
 
-Project Link: https://github.com/your-username/qr-code-generator
+Project Link: https://imiza1235.github.io/QR_code_Gen/
