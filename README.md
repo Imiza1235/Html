@@ -22,7 +22,7 @@ The QR Code Generator is a web application that allows users to easily create QR
 
 ### Demo
 
-You can access the live demo [here](#insert-link-to-live-demo).
+You can access the live demo [here](https://imiza1235.github.io/QR_code_Gen/).
 
 ### Built With
 
